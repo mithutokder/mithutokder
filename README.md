@@ -1,11 +1,12 @@
 
 ### About Me
-I am a backend developer with 10 years of experience.
+I am a backend developer with 10 years of experience based out of India
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
