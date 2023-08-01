@@ -15,7 +15,7 @@ I am a backend developer with 10 years of experience.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=serverless)
-![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Cloud Experience
